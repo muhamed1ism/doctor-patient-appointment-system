@@ -1,6 +1,6 @@
 # 🏥 eHospital - Microservice-Based Appointment Management System
 
-- [Project Overview](#-license)
+- [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
 - [Technologies Used](#-technologies-used)
 - [Project Structure](#-project-structure)
@@ -150,3 +150,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to the **Faculty of Mechanical Engineering, Computing, and Electrical Engineering at the University of Mostar** for their support.
 - Flask and Vue.js communities for their fantastic frameworks and tools.
+
